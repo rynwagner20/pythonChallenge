@@ -1,4 +1,4 @@
-import re
+import re, urllib
 
 data = "" # Copy-and-paste or extract otherwise from the challenge page's
           # HTML-source; I'll leave it out here for clarity reasons.
